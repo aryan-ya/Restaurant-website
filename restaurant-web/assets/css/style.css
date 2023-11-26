@@ -2,5 +2,96 @@
 
 
 body{
-    
+    font-family: "Spline sans", sans-serif;
+    color: #777;
+    line-height: 1.7;
+}h1,h2,h3,h4,h5,h6{
+   font-weight: 600;
+   color: #222;
+
+}.nav-link{
+    color: #222;
+    text-decoration: none;
+    transition: all 0.4s;
+    font-weight: 600;
+
+}.nav-link:hover{
+    color: #F58d17;
+
+}.sticky-top {
+   background-color: white;
+ 
+}img{
+    width: 100%;
+}
+
+section{
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+img{
+    min-width: 100%;
+}
+
+/* btn */
+.btn{
+    border-radius: 0;
+    padding: 14px 38px;
+}.btn-brand{
+    color: white;
+    font-weight: 500;
+    background-color:#F58d17 ;
+}.btn-brand:hover{
+    border-color: #ca7310;
+    background-color: #ca7310;
+    color: white;
+} 
+
+
+/* slider */
+
+.slide-1{
+    background: linear-gradient(rgba(0, 0, 0, 0.5) , rgba(0, 0, 0, 0.5))
+     , url(../images/cover1.jpg);
+}.slide-2{
+    background: linear-gradient(rgba(0, 0, 0, 0.5) , rgba(0, 0, 0, 0.5))
+     , url(../images/cover2.jpg);
+}.bg-cover{
+    background-position:center ;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 40px;
+    height: 70px;
+    margin: auto;
+}#heroSlider h6::after , #heroSlider h6::before{
+   content: " ";
+   width: 20px;
+   height: 4px;
+   background-color: #ffffff;
+   display: inline-block;
+   margin: 10px;
+   vertical-align: middle;
+
+}
+
+
+/* ABOUT */
+
+#about .divider{
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: #F58d17;
+}
+
+/* INTRO TEXT */
+.intro-text{
+    margin-bottom: 40px;
+    text-align: center;
+}.intro-text p{
+    max-width: 500px;
+    margin: 16px auto 0 auto;
 }
