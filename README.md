@@ -10,4 +10,4 @@
 <img src="https://github.com/aryan-ya/bootstrap_restaurant_website/assets/107910961/68ecef61-440e-45de-ac40-0bd73355b0b0" alt="" srcset="">
 <img src="https://github.com/aryan-ya/bootstrap_restaurant_website/assets/107910961/6fc9c855-4a51-4514-962d-a2ab82dc4c65" alt="" srcset="">
 <img src="https://github.com/aryan-ya/bootstrap_restaurant_website/assets/107910961/9f35dd5a-e0a3-4572-8970-18ffdef06f56" alt="" srcset="">
-<img src="https://github.com/aryan-ya/bootstrap_restaurant_website/assets/107910961/939aff46-24dd-4eec-a9b4-7f646dd72872" alt="" srcset="">
+<img src="https://github.com/aryan-ya/Restaurant-website/assets/107910961/9a8878fb-44f0-4f55-8273-eefd9635358d" alt="" srcset="">
